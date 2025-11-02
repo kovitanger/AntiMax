@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AntiMax</string>
+    <string name="accessibility_service_description">Служба блокировки приложения ru.oneme.app</string>
+</resources>
